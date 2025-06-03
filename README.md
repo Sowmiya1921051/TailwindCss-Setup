@@ -102,3 +102,7 @@ dist/
 .env
 .vscode/
 .DS_Store
+
+##  ✅ UI image with shared code 
+
+<img src="https://github.com/user-attachments/assets/47a71499-7ff7-4131-a38d-2df7555a9523" alt="Fullscreen Preview" width="600" height="350"/>
